@@ -1,6 +1,6 @@
-# Project Name
+# Puppeteer Using Laravel
 
-Brief description of the project.
+Instructions for setting up and running the project:
 
 ## Prerequisites
 
